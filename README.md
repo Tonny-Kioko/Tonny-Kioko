@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tonny-Kioko👨🏽‍💻
 - 👀 I’m interested in Backend Engineering and DevOps♾️
-- 🌱 I’m currently learning AWS Cloud📱
+- 🌱 I’m currently learning AWS Cloud☁️
 - 💞️ I’m looking to collaborate on Cloud or Backend projects
 - 📫 How to reach me on cfakiokoanthony@gmail.com📧
 
